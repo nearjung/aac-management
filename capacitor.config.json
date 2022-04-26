@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "AAC Management",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
